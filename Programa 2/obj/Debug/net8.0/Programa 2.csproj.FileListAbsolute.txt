@@ -1,0 +1,14 @@
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Desafios\Programa 2\bin\Debug\net8.0\Programa 2.exe
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Desafios\Programa 2\bin\Debug\net8.0\Programa 2.deps.json
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Desafios\Programa 2\bin\Debug\net8.0\Programa 2.runtimeconfig.json
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Desafios\Programa 2\bin\Debug\net8.0\Programa 2.dll
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Desafios\Programa 2\bin\Debug\net8.0\Programa 2.pdb
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Desafios\Programa 2\obj\Debug\net8.0\Programa 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Desafios\Programa 2\obj\Debug\net8.0\Programa 2.AssemblyInfoInputs.cache
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Desafios\Programa 2\obj\Debug\net8.0\Programa 2.AssemblyInfo.cs
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Desafios\Programa 2\obj\Debug\net8.0\Programa 2.csproj.CoreCompileInputs.cache
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Desafios\Programa 2\obj\Debug\net8.0\Programa 2.dll
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Desafios\Programa 2\obj\Debug\net8.0\refint\Programa 2.dll
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Desafios\Programa 2\obj\Debug\net8.0\Programa 2.pdb
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Desafios\Programa 2\obj\Debug\net8.0\Programa 2.genruntimeconfig.cache
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Desafios\Programa 2\obj\Debug\net8.0\ref\Programa 2.dll
